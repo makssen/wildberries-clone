@@ -255,6 +255,6 @@ form.addEventListener('submit', (e) => {
             cart.countCart();
         })
 	}else{
-		alert('Add product');
+		alert('Add product or fill in the fields');
 	}
 });
