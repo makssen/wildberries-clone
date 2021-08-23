@@ -38,7 +38,7 @@ const cartTableTotal = document.querySelector('.card-table__total');
 const cartCount = document.querySelector('.cart-count');
 
 const getGoods = async() => {
-    const response = await fetch('../db/db.json');
+    const response = await fetch('../wildberries-clone/db/db.json');
     if (!response.ok) {
         throw `Goods not load ${response.status}`;
     }
