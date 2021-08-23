@@ -234,6 +234,7 @@ form.addEventListener('submit', (e) => {
     const name = form.nameCustomer.value;
     const phone = form.phoneCustomer.value;
     const total = cartTableTotal.textContent;
+	if(name && phone && cart.cartGoods.length > 0){ 
     postData({ name, phone, total })
         .then(response => {
             if (!response.ok) {
@@ -253,4 +254,7 @@ form.addEventListener('submit', (e) => {
             cart.cartGoods.length = 0;
             cart.countCart();
         })
+	}else{
+		alert('Add product');
+	}
 });
