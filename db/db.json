@@ -2,7 +2,7 @@
 
   {
     "id": "001",
-    "img": "./wildberries-clone/db/img/image-122.jpg",
+    "img": "wildberries-clone/db/img/image-122.jpg",
     "name": "Striped Long Sleeve Shirt",
     "label": "new",
     "description": "Red/Sky Blue",
@@ -12,7 +12,7 @@
   },
   {
     "id": "002",
-    "img": "./wildberries-clone/db/img/201mt210e.jpg",
+    "img": "wildberries-clone/db/img/201mt210e.jpg",
     "name": "Poplin Top With Sleeve Bow",
     "label": "Bestseller",
     "description": "Bright Blue",
@@ -22,7 +22,7 @@
   },
   {
     "id": "003",
-    "img": "./wildberries-clone/db/img/61SVZdHi1SL.jpg",
+    "img": "wildberries-clone/db/img/61SVZdHi1SL.jpg",
     "name": "TOMS Women's Alpargata Loafer",
     "label": "Bestseller",
     "description": "Red",
@@ -32,7 +32,7 @@
   },
   {
     "id": "004",
-    "img": "./wildberries-clone/db/img/thR2gxLUL1152.jpg",
+    "img": "wildberries-clone/db/img/thR2gxLUL1152.jpg",
     "name": "Text T-Shirt",
     "label": "Bestseller",
     "description": "Pink and dogs",
@@ -42,7 +42,7 @@
   },
   {
     "id": "005",
-    "img": "./wildberries-clone/db/img/81ecpN8bKL.jpg",
+    "img": "wildberries-clone/db/img/81ecpN8bKL.jpg",
     "name": "Sweater Choker Neck",
     "label": "Bestseller",
     "description": "Dustyolive",
@@ -52,7 +52,7 @@
   },
   {
     "id": "006",
-    "img": "./wildberries-clone/db/img/61xZxTBffZL.jpg",
+    "img": "wildberries-clone/db/img/61xZxTBffZL.jpg",
     "name": "SJP by Sarah Jessica Parker",
     "label": "",
     "description": "Black/Nude Patent",
@@ -62,7 +62,7 @@
   },
   {
     "id": "007",
-    "img": "./wildberries-clone/db/img/71AogkKMguL.jpg",
+    "img": "wildberries-clone/db/img/71AogkKMguL.jpg",
     "name": "ECCO Biom Aex Luxe Hydromax Water-Resistant Cross Trainer",
     "label": "",
     "description": "Black",
@@ -72,7 +72,7 @@
   },
   {
     "id": "008",
-    "img": "./wildberries-clone/db/img/71wbXtpEwQL.jpg",
+    "img": "wildberries-clone/db/img/71wbXtpEwQL.jpg",
     "name": "Nike Air Max Torch 3 Men's Running Shoes",
     "label": "",
     "description": "Black/White",
@@ -82,7 +82,7 @@
   },
   {
   "id": "009",
-  "img": "./wildberries-clone/db/img/71Ka10xx6.jpg",
+  "img": "wildberries-clone/db/img/71Ka10xx6.jpg",
   "name": "Printed Shirt with a Bow",
   "label": "",
   "description": "Pink/Sky Blue/Yellow",
@@ -91,7 +91,7 @@
   "gender": "Womens"
 },{
   "id": "010",
-  "img": "./wildberries-clone/db/img/image-121.jpg",
+  "img": "wildberries-clone/db/img/image-121.jpg",
   "name": "Text T-Shirt",
   "label": "New",
   "description": "White",
@@ -100,7 +100,7 @@
   "gender": "Womens"
 },{
   "id": "011",
-  "img": "./wildberries-clone/db/img/image-120.jpg",
+  "img": "wildberries-clone/db/img/image-120.jpg",
   "name": "Faded Beach Trousers",
   "label": "New",
   "description": "Ochre",
@@ -109,7 +109,7 @@
   "gender": "Womens"
 },{
   "id": "012",
-  "img": "./wildberries-clone/db/img/image-119.jpg",
+  "img": "wildberries-clone/db/img/image-119.jpg",
   "name": "Embroidered Hoodie",
   "label": "New",
   "description": "Lilac",
@@ -118,7 +118,7 @@
   "gender": "Womens"
 },{
   "id": "013",
-  "img": "./wildberries-clone/db/img/A1GFd9I31.jpg",
+  "img": "wildberries-clone/db/img/A1GFd9I31.jpg",
   "name": "Bugatchi Men's Long Sleeve Printed Cotton Pointed Collar Shirt",
   "label": "New",
   "description": "Periwinkle",
@@ -127,7 +127,7 @@
   "gender": "Mens"
 },{
   "id": "014",
-  "img": "./wildberries-clone/db/img/819MP6k4E6L.jpg",
+  "img": "wildberries-clone/db/img/819MP6k4E6L.jpg",
   "name": "SITKA Gear Men's Hunting Windproof Optifade",
   "label": "",
   "description": "Elevated Ii",
