@@ -1,2 +1,2 @@
 # wildberries-clone
-HTML, CSS, JavaScript, Bootstrap
+HTML, CSS, JavaScript, Bootstrap, JSON Placeholder
