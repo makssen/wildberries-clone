@@ -167,7 +167,7 @@ const createdCard = (obj) => {
     card.innerHTML = `
 		<div class="goods-card">
 			<span class="label">${obj.label}</span>
-			<img src="../db/${obj.img}" alt=${obj.name} class="goods-image">
+			<img src=${obj.img} alt=${obj.name} class="goods-image">
 			<h3 class="goods-title">${obj.name}</h3>
 			<p class="goods-description">${obj.description}</p>
 			<button class="button goods-card-btn add-to-cart" data-id=${obj.id}>
